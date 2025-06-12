@@ -1,2 +1,2 @@
 # OpenML
-data and notebooks for yandex
+data and notebooks for yandex handbook
